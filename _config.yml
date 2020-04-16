@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "성장하는 개발자"
 title_separator          : "-"
-subtitle                 : "취업 준비기"# site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "취업 준비기" # site tagline that appears below site title in masthead
+name                     : "Park Seong Ho"
 description              : "지속가능한 성장을 위한 블로그"
 url                      : "https://SeongHo-kor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   name             : "Park Seong Ho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "성장하는 개발자"
-  location         : "Somewhere"
+  location         : "Republic of korea"
   email            : "seongh0-kor@gmail.com"
   links:
     - label: "Email"
