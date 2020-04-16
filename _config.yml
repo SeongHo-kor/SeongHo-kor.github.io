@@ -20,10 +20,10 @@ title                    : "성장하는 개발자"
 title_separator          : "-"
 subtitle                 : "취업 준비기"# site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "지속가능한 성장을 위한 블로그"
 url                      : "https://SeongHo-kor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "SeongHo-kor/SeongHo-kor.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "SeongHo-kor/SeongHo-kor.github.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Park Seong Ho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "성장하는 개발자"
   location         : "Somewhere"
-  email            :
+  email            : "seongh0-kor@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
