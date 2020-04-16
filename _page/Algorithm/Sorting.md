@@ -1,0 +1,53 @@
+# Sorting 알고리즘
+
+## Sorting 알고리즘에 대해 알아보자.
+
+---
+1. **Bubble Sorting**
+
+`code`
+```cpp
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int N = 5;
+	int data[5] = { 3,9,2,1,5 };
+	int temp = 0;
+
+	cout << "정렬 전" << '\n';
+	for (int i = 0; i < N; i++) {
+		cout << data[i] << ' ';
+	}
+	cout << '\n';
+
+	for (int i = 0; i < N - 1; i++) {
+		for (int j = 0; j < N - 1; j++) {
+			if (data[j] > data[j + 1]) {
+				temp = data[j];
+				data[j] = data[j + 1];
+				data[j + 1] = temp;
+			}
+		}
+	}
+
+	cout << "버블 정렬 결과(오름차순)" << '\n';
+	for (int i = 0; i < N; i++) {
+		cout << data[i]<<' ';
+	}
+	cout << '\n';
+	return 0;
+}
+```
+
+```sh
+정렬 전
+3 9 2 1 5
+
+버블 정렬 결과
+1 2 3 5 9
+```
+---
+
