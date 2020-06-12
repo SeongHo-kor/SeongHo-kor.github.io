@@ -1,4 +1,7 @@
 # main links
 main:
+  - title : "Categories"
+    url: /categories/
   - title: "Github"
     url: "https://github.com/SeongHo-kor"
+  
