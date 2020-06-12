@@ -83,12 +83,12 @@ namespace InfoClass
         }
     }
 }
+```
 
 
-```c#
 ####Ex2 연결클래스
 
-```C#
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
