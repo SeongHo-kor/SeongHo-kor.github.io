@@ -85,7 +85,6 @@ namespace InfoClass
 }
 ```
 
-
 ####Ex2 연결클래스
 
 ```c#
