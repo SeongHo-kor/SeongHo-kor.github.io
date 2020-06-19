@@ -16,15 +16,8 @@ headr:
 
 #### 서버
 
-![server](C:\Users\SeongHo-PC\Documents\SeongHo-kor.github.io\image\server.JPG)
-
-
-
-
-![clients](C:\Users\SeongHo-PC\Documents\SeongHo-kor.github.io\image\clients.JPG)
-
-
-
+##### Server windowform
+<img src="C:\Users\SeongHo-PC\Documents\SeongHo-kor.github.io\_posts\Network\image\server.JPG">
 
 ```c#
 using System;
@@ -171,6 +164,11 @@ namespace WindowsFormsApp1
 ---
 
 #### 클라이언트
+
+##### client windowform 
+
+<img src="C:\Users\SeongHo-PC\Documents\SeongHo-kor.github.io\_posts\Network\image\clients.JPG">
+
 
 ```c#
 using System;
