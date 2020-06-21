@@ -12,14 +12,27 @@ headr:
 ---
 
 # SocketNetwork(WindowForm)
+#### 사용한 클라스
 
+1. 정보 클라스
+- IPAddress
+- DNS
+- IPHOSTEntry
+- IPEndPoint
+
+2. 연결 클라스
+- TcpListener
+- TcpClient
+- UdpClient
+
+3. 전송 클라스
+- NetworkStream
+- StreamWriter/StreamReader
+- BinaryWriter/BinaryReader
 
 #### 서버
 
 #### Server windowform
-![server](.\image\server.JPG)
-
-1
 
 ```c#
 using System;
